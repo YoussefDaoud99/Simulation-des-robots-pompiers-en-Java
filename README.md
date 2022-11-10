@@ -1,10 +1,7 @@
 
-Ensimag 2A POO - TP 2020
-============================
-
 ### Context
 
-This project is done as part of my training at Grenoble Inp - Ensimag in a team of 3 people.
+This project is done as part of my training at Grenoble INP - Ensimag in a team of 3 people.
 
 The Java project involves developing an application to simulate a team of firefighter robots operating autonomously in a natural environment. To do so, we must define the different elements for our simulation, namely:
 
